@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/weather/static/css/main.5fe03ead.chunk.css",
+    "main.js": "/weather/static/js/main.37d5d7f3.chunk.js",
+    "main.js.map": "/weather/static/js/main.37d5d7f3.chunk.js.map",
+    "runtime-main.js": "/weather/static/js/runtime-main.d26e3fa4.js",
+    "runtime-main.js.map": "/weather/static/js/runtime-main.d26e3fa4.js.map",
+    "static/js/2.b71ae9db.chunk.js": "/weather/static/js/2.b71ae9db.chunk.js",
+    "static/js/2.b71ae9db.chunk.js.map": "/weather/static/js/2.b71ae9db.chunk.js.map",
+    "index.html": "/weather/index.html",
+    "precache-manifest.295651a279a411564646ec2c2ee3e983.js": "/weather/precache-manifest.295651a279a411564646ec2c2ee3e983.js",
+    "service-worker.js": "/weather/service-worker.js",
+    "static/css/main.5fe03ead.chunk.css.map": "/weather/static/css/main.5fe03ead.chunk.css.map",
+    "static/js/2.b71ae9db.chunk.js.LICENSE.txt": "/weather/static/js/2.b71ae9db.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/weather/static/media/tornado.51cc21eb.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d26e3fa4.js",
+    "static/js/2.b71ae9db.chunk.js",
+    "static/css/main.5fe03ead.chunk.css",
+    "static/js/main.37d5d7f3.chunk.js"
+  ]
+}
